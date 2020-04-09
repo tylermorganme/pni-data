@@ -5,5 +5,3 @@ The data for week 51 of the 2019-2020 flu season (week 51 of 2019) appears to be
 This is the project used to collect the data and create the visualization show here:
 
 [https://twitter.com/TylerMorganMe/status/1247706877145776129?s=20](https://twitter.com/TylerMorganMe/status/1247706877145776129?s=20)
-
-There is no requirements file yet so you will have to install your dependencies manually.
