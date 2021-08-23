@@ -1,4 +1,4 @@
-jupyterlab==2.1.0
+jupyterlab==2.2.10
 requests==2.23.0
 pandas==1.0.3
 numpy==1.18.2
